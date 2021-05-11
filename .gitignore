@@ -1,0 +1,17 @@
+*.out
+*.zip
+*.gz
+*.tar
+*.bz2
+*.rar
+*.o
+*.bak
+*.a
+*.so
+*~
+*.lib
+*tms
+.vscode/*
+.DS_Store
+.vs_code
+core
